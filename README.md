@@ -91,23 +91,5 @@ The findings may help in:
 - policy intervention design
 - mental health discourse analysis
 
-## Repository Structure
-```bash
-├── data/                 # Raw and processed Reddit data
-├── notebooks/            # EDA and modeling notebooks
-├── src/                  # Core scripts and models
-├── results/              # Visualizations and outputs
-├── README.md
-└── requirements.txt
-```
-
-## Future Work
-Possible extensions include:
-
-- cross-platform comparison (Twitter/X, news comments)
-- network-based interaction analysis
-- predictive modeling of discourse evolution
-- intervention timing analysis
-
 ## Authors
 Project developed as part of coursework/research on behavioral dynamics and online discourse analysis.
