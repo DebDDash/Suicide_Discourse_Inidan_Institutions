@@ -1,4 +1,4 @@
-# Suicide_Discourse_Inidan_Institutions
+# Suicide_Discourse_Indian_Institutions
 # Behavioral Dynamics in Response to Extreme Events: A Reddit-Based Analysis
 
 ## Introduction
